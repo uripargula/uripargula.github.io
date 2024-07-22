@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uripargula.github.io/sitemap
+Sitemap: https://uripargula.github.io/app/sitemap
+Sitemap: https://uripargula.github.io/assets/sitemap
+Sitemap: https://uripargula.github.io/css/sitemap
+Sitemap: https://uripargula.github.io/includes/sitemap
+Sitemap: https://uripargula.github.io/item/sitemap
+Sitemap: https://uripargula.github.io/src/sitemap
